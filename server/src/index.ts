@@ -37,14 +37,29 @@ app.use('/api/students', studentRouter);
 app.use('/api/notifications', notificationRouter);
 app.use('/api/ai', aiRouter);
 
-// Health check
+// Health check & Root greeting
+const healthPayload = () => ({
+  status: 'healthy',
+  service: 'SkillMatch API Server',
+  timestamp: new Date().toISOString(),
+  version: '1.0.0',
+  endpoints: {
+    health: '/api/health',
+    projects: '/api/projects',
+    students: '/api/students'
+  }
+});
+
+app.get('/', (req, res) => {
+  res.json(healthPayload());
+});
+
+app.get('/health', (req, res) => {
+  res.json(healthPayload());
+});
+
 app.get('/api/health', (req, res) => {
-  res.json({
-    status: 'healthy',
-    service: 'SkillMatch API Server',
-    timestamp: new Date().toISOString(),
-    version: '1.0.0'
-  });
+  res.json(healthPayload());
 });
 
 app.listen(PORT, () => {

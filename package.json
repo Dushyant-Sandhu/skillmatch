@@ -7,8 +7,9 @@
     "dev": "concurrently -k -n \"server,client\" -c \"cyan,magenta\" \"npm --prefix server run dev\" \"vite\"",
     "dev:client": "vite",
     "dev:server": "npm --prefix server run dev",
-    "build": "tsc -b && vite build",
+    "build": "tsc -b && vite build && npm --prefix server run build",
     "build:server": "npm --prefix server run build",
+    "start": "node server/dist/index.js",
     "lint": "oxlint",
     "preview": "vite preview"
   },
