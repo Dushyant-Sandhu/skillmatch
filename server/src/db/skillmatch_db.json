@@ -1,0 +1,1278 @@
+{
+  "profiles": [
+    {
+      "id": "student-1",
+      "user_id": "user-alex",
+      "role": "student",
+      "full_name": "Alex Mehta",
+      "avatar_url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=180&auto=format&fit=crop&q=80",
+      "college": "IIT Delhi",
+      "course": "Computer Science & Eng",
+      "year": "3rd Year",
+      "bio": "Frontend & Full-stack engineer crafting responsive, high-performance web applications. Specialized in React, Tailwind, and TypeScript.",
+      "location": "New Delhi / Remote",
+      "availability": "Available Immediately (20 hrs/week)",
+      "hourly_rate": 650,
+      "overall_rating": 4.8,
+      "completed_projects": 6,
+      "total_earnings": 68000,
+      "github_connected": true,
+      "github_username": "alexmehta-dev",
+      "created_at": "2026-07-13T19:44:54.354Z"
+    },
+    {
+      "id": "student-2",
+      "user_id": "user-priya",
+      "role": "student",
+      "full_name": "Priya Sharma",
+      "avatar_url": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=180&auto=format&fit=crop&q=80",
+      "college": "National Institute of Design",
+      "course": "Interaction & Product Design",
+      "year": "4th Year",
+      "bio": "Product and UI/UX Designer obsessed with human-centered interfaces, user empathy, design systems, and responsive web accessibility.",
+      "location": "Ahmedabad / Remote",
+      "availability": "Available (15 hrs/week)",
+      "hourly_rate": 750,
+      "overall_rating": 4.9,
+      "completed_projects": 7,
+      "total_earnings": 82000,
+      "github_connected": true,
+      "github_username": "priyasharma-ui",
+      "created_at": "2026-06-28T19:44:54.355Z"
+    },
+    {
+      "id": "student-3",
+      "user_id": "user-rohan",
+      "role": "student",
+      "full_name": "Rohan Verma",
+      "avatar_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=180&auto=format&fit=crop&q=80",
+      "college": "BITS Pilani",
+      "course": "Data Science & CS",
+      "year": "3rd Year",
+      "bio": "Python automation engineer and data enthusiast building intelligent scrapers, ETL pipelines, and API integrations.",
+      "location": "Goa / Remote",
+      "availability": "Available Immediately (25 hrs/week)",
+      "hourly_rate": 600,
+      "overall_rating": 4.7,
+      "completed_projects": 4,
+      "total_earnings": 44000,
+      "github_connected": true,
+      "github_username": "rohanv-data",
+      "created_at": "2026-07-28T19:44:54.355Z"
+    },
+    {
+      "id": "student-4",
+      "user_id": "user-ananya",
+      "role": "student",
+      "full_name": "Ananya Singh",
+      "avatar_url": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=180&auto=format&fit=crop&q=80",
+      "college": "Delhi Technological University",
+      "course": "Software Engineering",
+      "year": "3rd Year",
+      "bio": "Backend specialist focused on scalable Node.js microservices, PostgreSQL schema optimization, and secure RESTful architectures.",
+      "location": "Delhi / Remote",
+      "availability": "Available (15 hrs/week)",
+      "hourly_rate": 600,
+      "overall_rating": 4.8,
+      "completed_projects": 3,
+      "total_earnings": 36000,
+      "github_connected": true,
+      "github_username": "ananya-singh-dev",
+      "created_at": "2026-07-23T19:44:54.355Z"
+    },
+    {
+      "id": "student-5",
+      "user_id": "user-devansh",
+      "role": "student",
+      "full_name": "Devansh Patel",
+      "avatar_url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=180&auto=format&fit=crop&q=80",
+      "college": "NIT Surathkal",
+      "course": "Information Technology",
+      "year": "4th Year",
+      "bio": "Cross-platform mobile architect with Flutter and Firebase. Built 6+ mobile applications featured on Google Play & App Store.",
+      "location": "Bangalore / Remote",
+      "availability": "Available (20 hrs/week)",
+      "hourly_rate": 800,
+      "overall_rating": 4.9,
+      "completed_projects": 5,
+      "total_earnings": 75000,
+      "github_connected": true,
+      "github_username": "devpatel-flutter",
+      "created_at": "2026-06-13T19:44:54.355Z"
+    },
+    {
+      "id": "student-6",
+      "user_id": "user-sneha",
+      "role": "student",
+      "full_name": "Sneha Rao",
+      "avatar_url": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=180&auto=format&fit=crop&q=80",
+      "college": "St. Stephen's College",
+      "course": "Economics & Statistics",
+      "year": "2nd Year",
+      "bio": "Data analyst turning raw datasets into actionable executive insights with Python Pandas, SQL queries, and interactive visual dashboards.",
+      "location": "New Delhi / Remote",
+      "availability": "Available (10 hrs/week)",
+      "hourly_rate": 550,
+      "overall_rating": 4.6,
+      "completed_projects": 3,
+      "total_earnings": 28000,
+      "github_connected": false,
+      "created_at": "2026-08-12T19:44:54.355Z"
+    },
+    {
+      "id": "student-7",
+      "user_id": "user-kabir",
+      "role": "student",
+      "full_name": "Kabir Verma",
+      "avatar_url": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=180&auto=format&fit=crop&q=80",
+      "college": "Ashoka University",
+      "course": "English & Communications",
+      "year": "3rd Year",
+      "bio": "Technical copywriter and SEO specialist. Translating complex software and business concepts into high-converting copy and clear documentation.",
+      "location": "Sonipat / Remote",
+      "availability": "Available Immediately (15 hrs/week)",
+      "hourly_rate": 500,
+      "overall_rating": 4.8,
+      "completed_projects": 6,
+      "total_earnings": 41000,
+      "github_connected": false,
+      "created_at": "2026-07-03T19:44:54.355Z"
+    },
+    {
+      "id": "student-8",
+      "user_id": "user-meera",
+      "role": "student",
+      "full_name": "Meera Nair",
+      "avatar_url": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=180&auto=format&fit=crop&q=80",
+      "college": "Srishti Institute of Art, Design & Tech",
+      "course": "Visual Communication",
+      "year": "3rd Year",
+      "bio": "Brand identity creator and visual designer. Crafting iconic logos, brand guidelines, and vibrant social media creative packages for startups.",
+      "location": "Bangalore / Remote",
+      "availability": "Available (20 hrs/week)",
+      "hourly_rate": 650,
+      "overall_rating": 4.9,
+      "completed_projects": 5,
+      "total_earnings": 52000,
+      "github_connected": false,
+      "created_at": "2026-06-23T19:44:54.355Z"
+    },
+    {
+      "id": "client-1",
+      "user_id": "user-client-fitzone",
+      "role": "client",
+      "full_name": "Vikram Malhotra",
+      "avatar_url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=180&auto=format&fit=crop&q=80",
+      "location": "Mumbai, India",
+      "bio": "Founder & Managing Director of FitZone Fitness & Gyms. Passionate about empowering energetic student talent on digital projects.",
+      "overall_rating": 4.9,
+      "completed_projects": 8,
+      "total_earnings": 120000,
+      "created_at": "2026-06-03T19:44:54.355Z"
+    },
+    {
+      "id": "client-2",
+      "user_id": "user-client-chaistory",
+      "role": "client",
+      "full_name": "Sunita Rao",
+      "avatar_url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=180&auto=format&fit=crop&q=80",
+      "location": "Bangalore, India",
+      "bio": "Brand Director at The Chai Story & Artisanal Roasters. We hire student designers and web developers for agile marketing campaigns.",
+      "overall_rating": 5,
+      "completed_projects": 5,
+      "total_earnings": 85000,
+      "created_at": "2026-05-14T19:44:54.355Z"
+    },
+    {
+      "id": "client-3",
+      "user_id": "user-client-cloudscale",
+      "role": "client",
+      "full_name": "Arjun Deshmukh",
+      "avatar_url": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=180&auto=format&fit=crop&q=80",
+      "location": "Pune / Remote",
+      "bio": "CTO at CloudScale Ventures. Sponsoring university hackathons and hiring standout student software engineers for MVP builds.",
+      "overall_rating": 4.8,
+      "completed_projects": 12,
+      "total_earnings": 240000,
+      "created_at": "2026-04-14T19:44:54.355Z"
+    }
+  ],
+  "skills": [
+    {
+      "id": "skill-react",
+      "name": "React",
+      "category": "Frontend"
+    },
+    {
+      "id": "skill-ts",
+      "name": "TypeScript",
+      "category": "Frontend"
+    },
+    {
+      "id": "skill-tailwind",
+      "name": "Tailwind CSS",
+      "category": "Frontend"
+    },
+    {
+      "id": "skill-next",
+      "name": "Next.js",
+      "category": "Frontend"
+    },
+    {
+      "id": "skill-html-css",
+      "name": "HTML/CSS",
+      "category": "Frontend"
+    },
+    {
+      "id": "skill-responsive",
+      "name": "Responsive Design",
+      "category": "Frontend"
+    },
+    {
+      "id": "skill-node",
+      "name": "Node.js",
+      "category": "Backend"
+    },
+    {
+      "id": "skill-express",
+      "name": "Express",
+      "category": "Backend"
+    },
+    {
+      "id": "skill-sql",
+      "name": "SQL",
+      "category": "Backend"
+    },
+    {
+      "id": "skill-postgres",
+      "name": "PostgreSQL",
+      "category": "Backend"
+    },
+    {
+      "id": "skill-python",
+      "name": "Python",
+      "category": "AI & Data"
+    },
+    {
+      "id": "skill-pandas",
+      "name": "Pandas",
+      "category": "AI & Data"
+    },
+    {
+      "id": "skill-automation",
+      "name": "Automation",
+      "category": "AI & Data"
+    },
+    {
+      "id": "skill-figma",
+      "name": "Figma",
+      "category": "Design"
+    },
+    {
+      "id": "skill-uiux",
+      "name": "UI/UX Design",
+      "category": "Design"
+    },
+    {
+      "id": "skill-canva",
+      "name": "Canva",
+      "category": "Design"
+    },
+    {
+      "id": "skill-illustrator",
+      "name": "Illustrator",
+      "category": "Design"
+    },
+    {
+      "id": "skill-branding",
+      "name": "Branding",
+      "category": "Design"
+    },
+    {
+      "id": "skill-flutter",
+      "name": "Flutter",
+      "category": "Mobile"
+    },
+    {
+      "id": "skill-firebase",
+      "name": "Firebase",
+      "category": "Mobile"
+    },
+    {
+      "id": "skill-content",
+      "name": "Content Writing",
+      "category": "Writing"
+    },
+    {
+      "id": "skill-seo",
+      "name": "SEO",
+      "category": "Writing"
+    },
+    {
+      "id": "skill-api",
+      "name": "REST APIs",
+      "category": "Backend"
+    }
+  ],
+  "student_skills": [
+    {
+      "student_id": "student-1",
+      "skill_id": "skill-react",
+      "skill_name": "React",
+      "proficiency": 92,
+      "proficiency_label": "Advanced",
+      "years_experience": 2.5,
+      "portfolio_count": 4,
+      "completed_jobs_count": 4,
+      "verified_github": true
+    },
+    {
+      "student_id": "student-1",
+      "skill_id": "skill-ts",
+      "skill_name": "TypeScript",
+      "proficiency": 88,
+      "proficiency_label": "Advanced",
+      "years_experience": 2,
+      "portfolio_count": 3,
+      "completed_jobs_count": 3,
+      "verified_github": true
+    },
+    {
+      "student_id": "student-1",
+      "skill_id": "skill-tailwind",
+      "skill_name": "Tailwind CSS",
+      "proficiency": 94,
+      "proficiency_label": "Expert",
+      "years_experience": 2,
+      "portfolio_count": 4,
+      "completed_jobs_count": 4,
+      "verified_github": true
+    },
+    {
+      "student_id": "student-1",
+      "skill_id": "skill-html-css",
+      "skill_name": "HTML/CSS",
+      "proficiency": 95,
+      "proficiency_label": "Expert",
+      "years_experience": 3,
+      "portfolio_count": 4,
+      "completed_jobs_count": 4,
+      "verified_github": true
+    },
+    {
+      "student_id": "student-1",
+      "skill_id": "skill-responsive",
+      "skill_name": "Responsive Design",
+      "proficiency": 90,
+      "proficiency_label": "Advanced",
+      "years_experience": 2.5,
+      "portfolio_count": 4,
+      "completed_jobs_count": 4,
+      "verified_github": true
+    },
+    {
+      "student_id": "student-1",
+      "skill_id": "skill-next",
+      "skill_name": "Next.js",
+      "proficiency": 82,
+      "proficiency_label": "Advanced",
+      "years_experience": 1.5,
+      "portfolio_count": 2,
+      "completed_jobs_count": 2,
+      "verified_github": true
+    },
+    {
+      "student_id": "student-2",
+      "skill_id": "skill-figma",
+      "skill_name": "Figma",
+      "proficiency": 96,
+      "proficiency_label": "Expert",
+      "years_experience": 3,
+      "portfolio_count": 5,
+      "completed_jobs_count": 5,
+      "verified_github": false
+    },
+    {
+      "student_id": "student-2",
+      "skill_id": "skill-uiux",
+      "skill_name": "UI/UX Design",
+      "proficiency": 94,
+      "proficiency_label": "Expert",
+      "years_experience": 3,
+      "portfolio_count": 5,
+      "completed_jobs_count": 5,
+      "verified_github": false
+    },
+    {
+      "student_id": "student-2",
+      "skill_id": "skill-responsive",
+      "skill_name": "Responsive Design",
+      "proficiency": 88,
+      "proficiency_label": "Advanced",
+      "years_experience": 2,
+      "portfolio_count": 4,
+      "completed_jobs_count": 4,
+      "verified_github": true
+    },
+    {
+      "student_id": "student-2",
+      "skill_id": "skill-html-css",
+      "skill_name": "HTML/CSS",
+      "proficiency": 85,
+      "proficiency_label": "Advanced",
+      "years_experience": 2,
+      "portfolio_count": 3,
+      "completed_jobs_count": 3,
+      "verified_github": true
+    },
+    {
+      "student_id": "student-3",
+      "skill_id": "skill-python",
+      "skill_name": "Python",
+      "proficiency": 91,
+      "proficiency_label": "Advanced",
+      "years_experience": 2.5,
+      "portfolio_count": 3,
+      "completed_jobs_count": 3,
+      "verified_github": true
+    },
+    {
+      "student_id": "student-3",
+      "skill_id": "skill-automation",
+      "skill_name": "Automation",
+      "proficiency": 89,
+      "proficiency_label": "Advanced",
+      "years_experience": 2,
+      "portfolio_count": 3,
+      "completed_jobs_count": 2,
+      "verified_github": true
+    },
+    {
+      "student_id": "student-3",
+      "skill_id": "skill-api",
+      "skill_name": "REST APIs",
+      "proficiency": 85,
+      "proficiency_label": "Advanced",
+      "years_experience": 2,
+      "portfolio_count": 2,
+      "completed_jobs_count": 2,
+      "verified_github": true
+    },
+    {
+      "student_id": "student-4",
+      "skill_id": "skill-node",
+      "skill_name": "Node.js",
+      "proficiency": 90,
+      "proficiency_label": "Advanced",
+      "years_experience": 2,
+      "portfolio_count": 3,
+      "completed_jobs_count": 2,
+      "verified_github": true
+    },
+    {
+      "student_id": "student-4",
+      "skill_id": "skill-express",
+      "skill_name": "Express",
+      "proficiency": 88,
+      "proficiency_label": "Advanced",
+      "years_experience": 2,
+      "portfolio_count": 3,
+      "completed_jobs_count": 2,
+      "verified_github": true
+    },
+    {
+      "student_id": "student-4",
+      "skill_id": "skill-sql",
+      "skill_name": "SQL",
+      "proficiency": 85,
+      "proficiency_label": "Advanced",
+      "years_experience": 1.5,
+      "portfolio_count": 2,
+      "completed_jobs_count": 2,
+      "verified_github": true
+    },
+    {
+      "student_id": "student-5",
+      "skill_id": "skill-flutter",
+      "skill_name": "Flutter",
+      "proficiency": 93,
+      "proficiency_label": "Expert",
+      "years_experience": 2.5,
+      "portfolio_count": 4,
+      "completed_jobs_count": 3,
+      "verified_github": true
+    },
+    {
+      "student_id": "student-5",
+      "skill_id": "skill-firebase",
+      "skill_name": "Firebase",
+      "proficiency": 88,
+      "proficiency_label": "Advanced",
+      "years_experience": 2,
+      "portfolio_count": 3,
+      "completed_jobs_count": 3,
+      "verified_github": true
+    },
+    {
+      "student_id": "student-6",
+      "skill_id": "skill-pandas",
+      "skill_name": "Pandas",
+      "proficiency": 86,
+      "proficiency_label": "Advanced",
+      "years_experience": 1.5,
+      "portfolio_count": 2,
+      "completed_jobs_count": 2,
+      "verified_github": false
+    },
+    {
+      "student_id": "student-6",
+      "skill_id": "skill-sql",
+      "skill_name": "SQL",
+      "proficiency": 84,
+      "proficiency_label": "Advanced",
+      "years_experience": 1.5,
+      "portfolio_count": 2,
+      "completed_jobs_count": 2,
+      "verified_github": false
+    },
+    {
+      "student_id": "student-7",
+      "skill_id": "skill-content",
+      "skill_name": "Content Writing",
+      "proficiency": 92,
+      "proficiency_label": "Expert",
+      "years_experience": 2.5,
+      "portfolio_count": 4,
+      "completed_jobs_count": 4,
+      "verified_github": false
+    },
+    {
+      "student_id": "student-7",
+      "skill_id": "skill-seo",
+      "skill_name": "SEO",
+      "proficiency": 86,
+      "proficiency_label": "Advanced",
+      "years_experience": 2,
+      "portfolio_count": 3,
+      "completed_jobs_count": 3,
+      "verified_github": false
+    },
+    {
+      "student_id": "student-8",
+      "skill_id": "skill-canva",
+      "skill_name": "Canva",
+      "proficiency": 95,
+      "proficiency_label": "Expert",
+      "years_experience": 3,
+      "portfolio_count": 4,
+      "completed_jobs_count": 4,
+      "verified_github": false
+    },
+    {
+      "student_id": "student-8",
+      "skill_id": "skill-branding",
+      "skill_name": "Branding",
+      "proficiency": 90,
+      "proficiency_label": "Advanced",
+      "years_experience": 2,
+      "portfolio_count": 3,
+      "completed_jobs_count": 3,
+      "verified_github": false
+    },
+    {
+      "student_id": "student-8",
+      "skill_id": "skill-illustrator",
+      "skill_name": "Illustrator",
+      "proficiency": 85,
+      "proficiency_label": "Advanced",
+      "years_experience": 2,
+      "portfolio_count": 3,
+      "completed_jobs_count": 2,
+      "verified_github": false
+    }
+  ],
+  "portfolio_projects": [
+    {
+      "id": "port-alex-1",
+      "student_id": "student-1",
+      "title": "FitPulse - Fitness & Membership Web App",
+      "description": "Responsive React landing page and member portal with interactive workout scheduling, pricing tables, and testimonial carousels.",
+      "technologies": [
+        "React",
+        "Tailwind CSS",
+        "TypeScript",
+        "Responsive Design"
+      ],
+      "project_url": "https://fitpulse-preview.vercel.app",
+      "github_url": "https://github.com/alexmehta-dev/fitpulse-web",
+      "image_url": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=500&auto=format&fit=crop&q=80",
+      "created_at": "2026-08-02T19:44:54.355Z"
+    },
+    {
+      "id": "port-alex-2",
+      "student_id": "student-1",
+      "title": "CampusConnect Student Portal",
+      "description": "Modern university community portal connecting student clubs, event calendars, and departmental announcements with real-time UI.",
+      "technologies": [
+        "React",
+        "Node.js",
+        "PostgreSQL",
+        "HTML/CSS"
+      ],
+      "project_url": "https://campusconnect-iitd.vercel.app",
+      "github_url": "https://github.com/alexmehta-dev/campus-connect",
+      "image_url": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=500&auto=format&fit=crop&q=80",
+      "created_at": "2026-07-18T19:44:54.355Z"
+    },
+    {
+      "id": "port-alex-3",
+      "student_id": "student-1",
+      "title": "BrewCraft Café & Roasters Storefront",
+      "description": "Artisanal coffee house online ordering interface with interactive menu filtering, cart drawer, and mobile-first animations.",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "Responsive Design"
+      ],
+      "project_url": "https://brewcraft-cafe.vercel.app",
+      "github_url": "https://github.com/alexmehta-dev/brewcraft-storefront",
+      "image_url": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?w=500&auto=format&fit=crop&q=80",
+      "created_at": "2026-08-17T19:44:54.355Z"
+    },
+    {
+      "id": "port-alex-4",
+      "student_id": "student-1",
+      "title": "FinMetrics - SaaS Analytics Dashboard",
+      "description": "High-performance interactive financial analytics console featuring SVG charts, KPI gauges, and dark mode toggling.",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Next.js",
+        "Tailwind CSS"
+      ],
+      "project_url": "https://finmetrics-demo.vercel.app",
+      "github_url": "https://github.com/alexmehta-dev/finmetrics-dashboard",
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=500&auto=format&fit=crop&q=80",
+      "created_at": "2026-08-27T19:44:54.355Z"
+    },
+    {
+      "id": "port-priya-1",
+      "student_id": "student-2",
+      "title": "Zenith Health & Wellness Mobile Design",
+      "description": "Complete 30-screen iOS design system crafted in Figma covering habit tracking, mindful audio journeys, and wellness analytics.",
+      "technologies": [
+        "Figma",
+        "UI/UX Design",
+        "Design Systems"
+      ],
+      "project_url": "https://figma.com/@priyasharma/zenith-health",
+      "image_url": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=500&auto=format&fit=crop&q=80",
+      "created_at": "2026-08-02T19:44:54.355Z"
+    },
+    {
+      "id": "port-priya-2",
+      "student_id": "student-2",
+      "title": "Gourmet Bistro Responsive Website UI",
+      "description": "Visual redesign for an upscale dining establishment featuring luxury dark typography, micro-interactions, and table reservation flows.",
+      "technologies": [
+        "Figma",
+        "UI/UX Design",
+        "Responsive Design",
+        "HTML/CSS"
+      ],
+      "project_url": "https://gourmet-bistro.framer.website",
+      "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=500&auto=format&fit=crop&q=80",
+      "created_at": "2026-08-22T19:44:54.355Z"
+    },
+    {
+      "id": "port-rohan-1",
+      "student_id": "student-3",
+      "title": "PriceWatch: Multi-Store Price Tracker",
+      "description": "Automated Python web scraper monitoring prices across 4 major e-commerce platforms with automated Slack & email alerts.",
+      "technologies": [
+        "Python",
+        "Automation",
+        "REST APIs"
+      ],
+      "github_url": "https://github.com/rohanv-data/pricewatch-scraper",
+      "image_url": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=500&auto=format&fit=crop&q=80",
+      "created_at": "2026-08-07T19:44:54.355Z"
+    }
+  ],
+  "freelance_projects": [
+    {
+      "id": "proj-1",
+      "client_id": "client-1",
+      "client_name": "FitZone Gyms & Fitness",
+      "client_avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=180&auto=format&fit=crop&q=80",
+      "client_organization": "FitZone Fitness Pvt Ltd",
+      "title": "Modern Landing Page for Local Gym",
+      "description": "We need a high-converting, modern landing page for our new premium gym branch in Bandra. Requirements include responsive layout across desktop and mobile, trainer profiles, class schedule grid, Google Maps integration, and an inquiry contact form. Clean React code with Tailwind CSS preferred.",
+      "category": "Web Development",
+      "budget_min": 8000,
+      "budget_max": 12000,
+      "deadline": "5 days",
+      "deadline_days": 5,
+      "difficulty": "Intermediate",
+      "status": "posted",
+      "applicants_count": 3,
+      "created_at": "2026-09-09T19:44:54.355Z"
+    },
+    {
+      "id": "proj-2",
+      "client_id": "client-2",
+      "client_name": "The Chai Story & Roasters",
+      "client_avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=180&auto=format&fit=crop&q=80",
+      "client_organization": "The Chai Story Hospitality",
+      "title": "Restaurant Menu & Online Ordering UI",
+      "description": "Looking for a talented student developer to craft a lightning-fast digital menu and click-and-collect ordering interface for our 3 café outlets. Must be mobile-optimized with intuitive categorization (Chai, Snacks, Bakery, Combos) and clean cart management.",
+      "category": "Web Development",
+      "budget_min": 10000,
+      "budget_max": 16000,
+      "deadline": "7 days",
+      "deadline_days": 7,
+      "difficulty": "Intermediate",
+      "status": "posted",
+      "applicants_count": 2,
+      "created_at": "2026-09-08T19:44:54.355Z"
+    },
+    {
+      "id": "proj-3",
+      "client_id": "client-3",
+      "client_name": "CloudScale Ventures",
+      "client_avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=180&auto=format&fit=crop&q=80",
+      "client_organization": "CloudScale Tech Incubator",
+      "title": "Python E-Commerce Price Tracker & Automation",
+      "description": "Build an automated Python background job that fetches daily pricing and stock availability for a catalogue of 200 electronics items, logs fluctuations to a local database or Google Sheet, and triggers Discord webhook notifications on price drops.",
+      "category": "Python & Data Automation",
+      "budget_min": 6000,
+      "budget_max": 10000,
+      "deadline": "4 days",
+      "deadline_days": 4,
+      "difficulty": "Intermediate",
+      "status": "posted",
+      "applicants_count": 2,
+      "created_at": "2026-09-07T19:44:54.355Z"
+    },
+    {
+      "id": "proj-4",
+      "client_id": "client-3",
+      "client_name": "CloudScale Ventures",
+      "client_avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=180&auto=format&fit=crop&q=80",
+      "client_organization": "CloudScale Tech Incubator",
+      "title": "Campus Hackathon Mobile Guide App with Flutter",
+      "description": "Need a sleek, cross-platform Flutter application for our upcoming 1,000-student collegiate hackathon. Includes live schedule countdown, mentor directory, project submission links, and push notification alerts using Firebase.",
+      "category": "Mobile App Development",
+      "budget_min": 16000,
+      "budget_max": 24000,
+      "deadline": "10 days",
+      "deadline_days": 10,
+      "difficulty": "Advanced",
+      "status": "posted",
+      "applicants_count": 1,
+      "created_at": "2026-09-06T19:44:54.355Z"
+    },
+    {
+      "id": "proj-5",
+      "client_id": "client-2",
+      "client_name": "The Chai Story & Roasters",
+      "client_avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=180&auto=format&fit=crop&q=80",
+      "client_organization": "The Chai Story Hospitality",
+      "title": "Instagram Content Package & Festival Creatives",
+      "description": "Seeking a creative graphic designer to design a 15-post carousel package for Instagram highlighting monsoon specials, artisan blends, and customer stories. Deliverables in Figma or Canva with source assets and export presets.",
+      "category": "UI/UX & Graphic Design",
+      "budget_min": 4000,
+      "budget_max": 7000,
+      "deadline": "3 days",
+      "deadline_days": 3,
+      "difficulty": "Beginner",
+      "status": "posted",
+      "applicants_count": 2,
+      "created_at": "2026-09-10T19:44:54.355Z"
+    },
+    {
+      "id": "proj-6",
+      "client_id": "client-3",
+      "client_name": "CloudScale Ventures",
+      "client_avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=180&auto=format&fit=crop&q=80",
+      "client_organization": "CloudScale Tech Incubator",
+      "title": "Financial Analytics Dashboard UI in React",
+      "description": "Create a responsive React & Tailwind financial metrics dashboard displaying MRR growth, churn rates, user cohort retention charts, and downloadable CSV exports. Dummy mock API will be supplied.",
+      "category": "Web Development",
+      "budget_min": 12000,
+      "budget_max": 18000,
+      "deadline": "8 days",
+      "deadline_days": 8,
+      "difficulty": "Advanced",
+      "status": "posted",
+      "applicants_count": 1,
+      "created_at": "2026-09-05T19:44:54.355Z"
+    },
+    {
+      "id": "proj-7",
+      "client_id": "client-3",
+      "client_name": "CloudScale Ventures",
+      "client_avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=180&auto=format&fit=crop&q=80",
+      "client_organization": "CloudScale Tech Incubator",
+      "title": "Technical Documentation & SEO Writing for Developer API",
+      "description": "Write 4 comprehensive developer tutorials and getting-started guides for a new REST API tool. Target audience is junior to mid-level web developers. Must include code snippets in curl and JavaScript.",
+      "category": "Content & Writing",
+      "budget_min": 3500,
+      "budget_max": 6000,
+      "deadline": "4 days",
+      "deadline_days": 4,
+      "difficulty": "Beginner",
+      "status": "posted",
+      "applicants_count": 1,
+      "created_at": "2026-09-09T19:44:54.355Z"
+    },
+    {
+      "id": "proj-8",
+      "client_id": "client-1",
+      "client_name": "FitZone Gyms & Fitness",
+      "client_avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=180&auto=format&fit=crop&q=80",
+      "client_organization": "FitZone Fitness Pvt Ltd",
+      "title": "Member Attendance & Retention Data Cleaning Script",
+      "description": "We have 6 months of raw biometric check-in data in CSV format with duplicates and formatting discrepancies. Need a Python script to clean, validate, and compute monthly churn and peak hour utilization statistics.",
+      "category": "Python & Data Automation",
+      "budget_min": 8000,
+      "budget_max": 13000,
+      "deadline": "5 days",
+      "deadline_days": 5,
+      "difficulty": "Intermediate",
+      "status": "posted",
+      "applicants_count": 1,
+      "created_at": "2026-09-08T19:44:54.355Z"
+    },
+    {
+      "id": "proj-9",
+      "client_id": "client-2",
+      "client_name": "The Chai Story & Roasters",
+      "client_avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=180&auto=format&fit=crop&q=80",
+      "client_organization": "The Chai Story Hospitality",
+      "title": "Visual Identity & Packaging Redesign for Chai Boxes",
+      "description": "Design contemporary packaging box artwork for 3 premium tea blends. Needs vector source files in Adobe Illustrator with print-ready CMYK color profiles, die cut outlines, and typography guidance.",
+      "category": "UI/UX & Graphic Design",
+      "budget_min": 5000,
+      "budget_max": 9000,
+      "deadline": "4 days",
+      "deadline_days": 4,
+      "difficulty": "Intermediate",
+      "status": "posted",
+      "applicants_count": 2,
+      "created_at": "2026-09-06T19:44:54.355Z"
+    },
+    {
+      "id": "proj-10",
+      "client_id": "client-3",
+      "client_name": "CloudScale Ventures",
+      "client_avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=180&auto=format&fit=crop&q=80",
+      "client_organization": "CloudScale Tech Incubator",
+      "title": "Express REST API for Student Hackathon Portal",
+      "description": "Develop an authenticated Express & PostgreSQL backend service with endpoints for student team registration, project idea submissions, and score tallying with JWT tokens and role verification.",
+      "category": "Web Development",
+      "budget_min": 9000,
+      "budget_max": 15000,
+      "deadline": "6 days",
+      "deadline_days": 6,
+      "difficulty": "Intermediate",
+      "status": "posted",
+      "applicants_count": 1,
+      "created_at": "2026-09-10T19:44:54.355Z"
+    },
+    {
+      "id": "proj-completed-1",
+      "client_id": "client-1",
+      "client_name": "FitZone Gyms & Fitness",
+      "client_avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=180&auto=format&fit=crop&q=80",
+      "client_organization": "FitZone Fitness Pvt Ltd",
+      "title": "FitZone Trainer Booking Portal MVP",
+      "description": "Single-page React web interface for booking personal training slots with time slot selection and WhatsApp confirmation.",
+      "category": "Web Development",
+      "budget_min": 9000,
+      "budget_max": 12000,
+      "deadline": "5 days",
+      "deadline_days": 5,
+      "difficulty": "Intermediate",
+      "status": "completed",
+      "hired_student_id": "student-1",
+      "hired_student_name": "Alex Mehta",
+      "created_at": "2026-08-17T19:44:54.355Z"
+    },
+    {
+      "id": "proj-completed-2",
+      "client_id": "client-2",
+      "client_name": "The Chai Story & Roasters",
+      "client_avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=180&auto=format&fit=crop&q=80",
+      "client_organization": "The Chai Story Hospitality",
+      "title": "Artisanal Tea Menu Digital UI Design",
+      "description": "Figma interactive prototype of the seasonal winter tea menu with dietary allergen badges and ingredient cards.",
+      "category": "UI/UX & Graphic Design",
+      "budget_min": 7000,
+      "budget_max": 10000,
+      "deadline": "4 days",
+      "deadline_days": 4,
+      "difficulty": "Intermediate",
+      "status": "completed",
+      "hired_student_id": "student-2",
+      "hired_student_name": "Priya Sharma",
+      "created_at": "2026-08-07T19:44:54.355Z"
+    },
+    {
+      "id": "proj-completed-3",
+      "client_id": "client-3",
+      "client_name": "CloudScale Ventures",
+      "client_avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=180&auto=format&fit=crop&q=80",
+      "client_organization": "CloudScale Tech Incubator",
+      "title": "Automated Tech Jobs Daily Scraper",
+      "description": "Python script scraping open junior developer roles from university job boards and filtering by keyword.",
+      "category": "Python & Data Automation",
+      "budget_min": 8000,
+      "budget_max": 11000,
+      "deadline": "4 days",
+      "deadline_days": 4,
+      "difficulty": "Intermediate",
+      "status": "completed",
+      "hired_student_id": "student-3",
+      "hired_student_name": "Rohan Verma",
+      "created_at": "2026-08-02T19:44:54.355Z"
+    }
+  ],
+  "project_requirements": [
+    {
+      "id": "req-1-1",
+      "project_id": "proj-1",
+      "skill_id": "skill-react",
+      "skill_name": "React",
+      "importance": "high",
+      "required_level": 85
+    },
+    {
+      "id": "req-1-2",
+      "project_id": "proj-1",
+      "skill_id": "skill-html-css",
+      "skill_name": "HTML/CSS",
+      "importance": "high",
+      "required_level": 85
+    },
+    {
+      "id": "req-1-3",
+      "project_id": "proj-1",
+      "skill_id": "skill-responsive",
+      "skill_name": "Responsive Design",
+      "importance": "high",
+      "required_level": 85
+    },
+    {
+      "id": "req-2-1",
+      "project_id": "proj-2",
+      "skill_id": "skill-react",
+      "skill_name": "React",
+      "importance": "high",
+      "required_level": 80
+    },
+    {
+      "id": "req-2-2",
+      "project_id": "proj-2",
+      "skill_id": "skill-tailwind",
+      "skill_name": "Tailwind CSS",
+      "importance": "high",
+      "required_level": 75
+    },
+    {
+      "id": "req-2-3",
+      "project_id": "proj-2",
+      "skill_id": "skill-uiux",
+      "skill_name": "UI/UX Design",
+      "importance": "high",
+      "required_level": 80
+    },
+    {
+      "id": "req-3-1",
+      "project_id": "proj-3",
+      "skill_id": "skill-python",
+      "skill_name": "Python",
+      "importance": "high",
+      "required_level": 85
+    },
+    {
+      "id": "req-3-2",
+      "project_id": "proj-3",
+      "skill_id": "skill-automation",
+      "skill_name": "Automation",
+      "importance": "high",
+      "required_level": 80
+    },
+    {
+      "id": "req-3-3",
+      "project_id": "proj-3",
+      "skill_id": "skill-api",
+      "skill_name": "REST APIs",
+      "importance": "medium",
+      "required_level": 75
+    },
+    {
+      "id": "req-4-1",
+      "project_id": "proj-4",
+      "skill_id": "skill-flutter",
+      "skill_name": "Flutter",
+      "importance": "high",
+      "required_level": 85
+    },
+    {
+      "id": "req-4-2",
+      "project_id": "proj-4",
+      "skill_id": "skill-firebase",
+      "skill_name": "Firebase",
+      "importance": "high",
+      "required_level": 80
+    },
+    {
+      "id": "req-5-1",
+      "project_id": "proj-5",
+      "skill_id": "skill-canva",
+      "skill_name": "Canva",
+      "importance": "high",
+      "required_level": 80
+    },
+    {
+      "id": "req-5-2",
+      "project_id": "proj-5",
+      "skill_id": "skill-branding",
+      "skill_name": "Branding",
+      "importance": "high",
+      "required_level": 75
+    },
+    {
+      "id": "req-6-1",
+      "project_id": "proj-6",
+      "skill_id": "skill-react",
+      "skill_name": "React",
+      "importance": "high",
+      "required_level": 85
+    },
+    {
+      "id": "req-6-2",
+      "project_id": "proj-6",
+      "skill_id": "skill-ts",
+      "skill_name": "TypeScript",
+      "importance": "high",
+      "required_level": 80
+    },
+    {
+      "id": "req-6-3",
+      "project_id": "proj-6",
+      "skill_id": "skill-responsive",
+      "skill_name": "Responsive Design",
+      "importance": "medium",
+      "required_level": 75
+    },
+    {
+      "id": "req-7-1",
+      "project_id": "proj-7",
+      "skill_id": "skill-content",
+      "skill_name": "Content Writing",
+      "importance": "high",
+      "required_level": 85
+    },
+    {
+      "id": "req-7-2",
+      "project_id": "proj-7",
+      "skill_id": "skill-seo",
+      "skill_name": "SEO",
+      "importance": "medium",
+      "required_level": 75
+    },
+    {
+      "id": "req-8-1",
+      "project_id": "proj-8",
+      "skill_id": "skill-pandas",
+      "skill_name": "Pandas",
+      "importance": "high",
+      "required_level": 80
+    },
+    {
+      "id": "req-8-2",
+      "project_id": "proj-8",
+      "skill_id": "skill-sql",
+      "skill_name": "SQL",
+      "importance": "high",
+      "required_level": 75
+    },
+    {
+      "id": "req-9-1",
+      "project_id": "proj-9",
+      "skill_id": "skill-branding",
+      "skill_name": "Branding",
+      "importance": "high",
+      "required_level": 80
+    },
+    {
+      "id": "req-9-2",
+      "project_id": "proj-9",
+      "skill_id": "skill-illustrator",
+      "skill_name": "Illustrator",
+      "importance": "high",
+      "required_level": 80
+    },
+    {
+      "id": "req-10-1",
+      "project_id": "proj-10",
+      "skill_id": "skill-node",
+      "skill_name": "Node.js",
+      "importance": "high",
+      "required_level": 85
+    },
+    {
+      "id": "req-10-2",
+      "project_id": "proj-10",
+      "skill_id": "skill-express",
+      "skill_name": "Express",
+      "importance": "high",
+      "required_level": 80
+    },
+    {
+      "id": "req-10-3",
+      "project_id": "proj-10",
+      "skill_id": "skill-sql",
+      "skill_name": "SQL",
+      "importance": "medium",
+      "required_level": 75
+    }
+  ],
+  "applications": [
+    {
+      "id": "app-1",
+      "project_id": "proj-1",
+      "project_title": "Modern Landing Page for Local Gym",
+      "student_id": "student-1",
+      "student_name": "Alex Mehta",
+      "student_avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=180&auto=format&fit=crop&q=80",
+      "student_rating": 4.8,
+      "student_completed_count": 6,
+      "proposal": "Hi Vikram! I have built 4 production React & Tailwind landing pages, including a member portal for FitPulse with responsive class schedules and Google Maps integration. I can deliver a clean, fast-loading responsive landing page in 4 days.",
+      "proposed_price": 10000,
+      "estimated_days": 4,
+      "status": "pending",
+      "match_score": 94,
+      "created_at": "2026-09-10T19:44:54.355Z"
+    },
+    {
+      "id": "app-2",
+      "project_id": "proj-1",
+      "project_title": "Modern Landing Page for Local Gym",
+      "student_id": "student-2",
+      "student_name": "Priya Sharma",
+      "student_avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=180&auto=format&fit=crop&q=80",
+      "student_rating": 4.9,
+      "student_completed_count": 7,
+      "proposal": "Hello! I specialize in high-converting UI/UX and responsive layouts. I can provide complete high-fidelity Figma components followed by responsive HTML/CSS/React code with subtle micro-animations.",
+      "proposed_price": 11500,
+      "estimated_days": 5,
+      "status": "pending",
+      "match_score": 82,
+      "created_at": "2026-09-10T07:44:54.355Z"
+    },
+    {
+      "id": "app-3",
+      "project_id": "proj-1",
+      "project_title": "Modern Landing Page for Local Gym",
+      "student_id": "student-4",
+      "student_name": "Ananya Singh",
+      "student_avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=180&auto=format&fit=crop&q=80",
+      "student_rating": 4.8,
+      "student_completed_count": 3,
+      "proposal": "I can build the landing page and configure a lightweight Node.js/Express contact form email forwarder.",
+      "proposed_price": 8500,
+      "estimated_days": 5,
+      "status": "pending",
+      "match_score": 64,
+      "created_at": "2026-09-10T00:32:54.355Z"
+    }
+  ],
+  "project_submissions": [],
+  "reviews": [
+    {
+      "id": "rev-1",
+      "project_id": "proj-completed-1",
+      "project_title": "FitZone Trainer Booking Portal MVP",
+      "student_id": "student-1",
+      "client_id": "client-1",
+      "client_name": "Vikram Malhotra",
+      "client_avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=180&auto=format&fit=crop&q=80",
+      "quality_rating": 5,
+      "communication_rating": 5,
+      "deadline_rating": 5,
+      "professionalism_rating": 5,
+      "overall_rating": 5,
+      "comment": "Alex did an exceptional job building our trainer booking portal! The React code was modular, clean, and delivered 1 full day ahead of deadline. Highly recommended!",
+      "created_at": "2026-08-22T19:44:54.355Z"
+    },
+    {
+      "id": "rev-2",
+      "project_id": "proj-completed-2",
+      "project_title": "Artisanal Tea Menu Digital UI Design",
+      "student_id": "student-2",
+      "client_id": "client-2",
+      "client_name": "Sunita Rao",
+      "client_avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=180&auto=format&fit=crop&q=80",
+      "quality_rating": 5,
+      "communication_rating": 5,
+      "deadline_rating": 5,
+      "professionalism_rating": 5,
+      "overall_rating": 5,
+      "comment": "Priya is one of the most talented designers we have collaborated with. The typography, color harmony, and accessibility considerations were top tier.",
+      "created_at": "2026-08-12T19:44:54.355Z"
+    },
+    {
+      "id": "rev-3",
+      "project_id": "proj-completed-3",
+      "project_title": "Automated Tech Jobs Daily Scraper",
+      "student_id": "student-3",
+      "client_id": "client-3",
+      "client_name": "Arjun Deshmukh",
+      "client_avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=180&auto=format&fit=crop&q=80",
+      "quality_rating": 4.8,
+      "communication_rating": 4.5,
+      "deadline_rating": 5,
+      "professionalism_rating": 4.8,
+      "overall_rating": 4.8,
+      "comment": "Rohan set up our scraping pipeline seamlessly. Very solid Python skills and thoughtful error handling for rate limits.",
+      "created_at": "2026-08-07T19:44:54.355Z"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif-1",
+      "user_id": "student-1",
+      "type": "application",
+      "title": "Project Match Available",
+      "message": "New project \"Modern Landing Page for Local Gym\" matches 94% of your verified React & Tailwind skills.",
+      "link": "/projects/proj-1",
+      "read": false,
+      "created_at": "2026-09-11T15:44:54.355Z"
+    },
+    {
+      "id": "notif-2",
+      "user_id": "student-1",
+      "type": "review",
+      "title": "5-Star Review Received",
+      "message": "Vikram Malhotra rated you 5.0 ★ for completing \"FitZone Trainer Booking Portal MVP\".",
+      "link": "/profile/student-1",
+      "read": true,
+      "created_at": "2026-08-22T19:44:54.355Z"
+    },
+    {
+      "id": "notif-3",
+      "user_id": "client-1",
+      "type": "application",
+      "title": "New Applicant on Gym Landing Page",
+      "message": "Alex Mehta (94% Match) applied for \"Modern Landing Page for Local Gym\".",
+      "link": "/projects/proj-1/applicants",
+      "read": false,
+      "created_at": "2026-09-11T17:44:54.355Z"
+    }
+  ],
+  "ai_analyses": []
+}
